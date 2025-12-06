@@ -1,0 +1,6 @@
+1 Rakesh 100.00
+2 Satish 105.00
+3 Bharat 109
+4 King 110
+5 Babu 150
+6 Mahaan 79.00
